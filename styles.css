@@ -13,10 +13,6 @@ h3 {
 }
 
 .imagenes {
-	
-	display: inline-block;
-	width: 450px;
-	height: 250px;
-	text-align: center;
 
+	text-align: center;
 }
