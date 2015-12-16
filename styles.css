@@ -12,15 +12,11 @@ h3 {
 	color: #747704;
 }
 
-.wrapper img {
-
-	width: 500px;
+.imagenes {
+	
+	display: inline-block;
+	width: 450px;
 	height: 250px;
 	text-align: center;
 
-}
-
-.wrapper {
-	
-	display: inline-block;
 }
